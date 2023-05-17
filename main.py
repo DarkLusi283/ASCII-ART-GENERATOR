@@ -31,11 +31,11 @@ print(" 9. Mini")
 print("10. SMShadow")
 print("11. SMSlant")
 print("12. SMScript")
-print("13. Small"
+print("13. Small")
 print("14. Shadow")
 print("15. Script")
-print("16. Ivrit"
-print("17. Lean"
+print("16. Ivrit")
+print("17. Lean")
 style = int(input("Enter the number to select: "))
 
 
